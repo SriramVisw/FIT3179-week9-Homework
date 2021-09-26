@@ -6,7 +6,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://NghiepQuangLy.github.io/FIT3179/ne_110m_graticules_30.topojson",
+        "url": "https://raw.githubusercontent.com/SriramVisw/FIT3179-week9-Homework/main/data/ne_110m_graticules_30.topojson",
         "format": {
           "type": "topojson",
           "feature": "ne_110m_graticules_30"
@@ -20,7 +20,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+        "url": "https://raw.githubusercontent.com/SriramVisw/FIT3179-week9-Homework/main/data/ne_110m_admin_0_countries.topojson.txt",
         "format": {
           "type": "topojson",
           "feature": "ne_110m_admin_0_countries"
@@ -53,7 +53,8 @@
         "type": "mollweide"
       },
       "mark": {
-        "type": "geoshape"
+        "type": "geoshape",
+        "stroke": "lightgrey"
       },
       "encoding": {
         "color": {
