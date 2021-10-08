@@ -4,7 +4,7 @@
   "width": 800,
   "height": 600,
   "data": {
-    "url": "https://NghiepQuangLy.github.io/FIT3179/ne_110m_graticules_30.topojson",
+    "url": "https://raw.githubusercontent.com/SriramVisw/FIT3179-week9-Homework/main/data/ne_110m_graticules_30.topojson",
     "format": {
       "type": "topojson",
       "feature": "ne_110m_graticules_30"
